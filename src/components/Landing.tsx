@@ -3,7 +3,7 @@
 import * as React from "react";
 import { Button, TextField, Grid } from "@mui/material";
 import Image from "next/image";
-import doctor from "../../public/doctor.png"
+import doctor from "../../public/handyman-hero.png"
 
 export default function Landing (){
     return (
