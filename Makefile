@@ -1,4 +1,4 @@
 gt:
 	git add .
-	git commit -m 'commit'
+	git commit -m "$(m)"
 	git push origin
